@@ -4,6 +4,7 @@ description: This syllabus provides information on readings and resources, assig
   and assessment, and the schedule of course meetings.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-405j-the-ancient-city-spring-2005/38c70903bde888cd6133b052cc7073c1_MIT21H_405Js05_sylls08.pdf
 file_type: application/pdf
+parent_uid: 7540c518-7894-b84e-bde8-a5c820006656
 resourcetype: Document
 title: Spring 2008 Syllabus
 uid: 38c70903-bde8-88cd-6133-b052cc7073c1
